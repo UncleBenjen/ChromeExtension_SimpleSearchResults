@@ -1,2 +1,2 @@
 # ChromeExtension_SimpleSearchResults
-Chrome Extension that makes google searchs AI-free
+Chrome Extension that makes google searches AI-free
